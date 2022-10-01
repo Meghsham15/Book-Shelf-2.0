@@ -145,6 +145,13 @@ const books = [
     "Born": " 11,Oct 1967",
     "Status": "Alive",
     "Book Name": "Zero to one", 
+  },
+  {
+    "id": "47",
+    "Author": "Srijan Pal Singh",
+    "Born": "18 January Lucknow, India",
+    "Status": "Alive",
+    "Book Name": "what can i give?", 
   }
 
 ]
