@@ -75,7 +75,7 @@ const books = [
     "Born": "26 oct 1883",
     "Status": "dead",
     "Book Name": "Think and Grow Rich", 
-  
+},
  {
     "id": "7",
     "Author": "Chetan Bhagat",
@@ -103,7 +103,7 @@ const books = [
     "Born": "26 oct 1883",
     "Status": "dead",
     "Book Name": "Think and Grow Rich", 
-  
+  },
     {
     "id": "22",
     "Author": "Chetan Bhagat",
@@ -152,6 +152,13 @@ const books = [
     "Born": "18 January Lucknow, India",
     "Status": "Alive",
     "Book Name": "what can i give?", 
+  },
+  {
+    "id": "48",
+    "Author": "Tere Liye",
+    "Born": "21 Mai 1979",
+    "Status": "Alive",
+    "Book Name": "Komet Minor", 
   }
 
 ]
