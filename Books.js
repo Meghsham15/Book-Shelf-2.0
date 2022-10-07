@@ -159,6 +159,13 @@ const books = [
     "Born": "21 Mai 1979",
     "Status": "Alive",
     "Book Name": "Komet Minor", 
+  },
+   {
+    "id": "49",
+    "Author": "Tere Liye",
+    "Born": "21 Mai 1979",
+    "Status": "Alive",
+    "Book Name": "Komet Minor", 
   }
 
 ]
