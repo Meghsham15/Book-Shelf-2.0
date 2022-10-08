@@ -160,5 +160,9 @@ const books = [
     "Status": "Alive",
     "Book Name": "Komet Minor", 
   }
-
+id": "49",
+    "Author": "Colleen Hoover",
+    "Born": "12 April ",
+    "Status": "alive",
+    "Book Name": "UGLY LOVE ",
 ]
